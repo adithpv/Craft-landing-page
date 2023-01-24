@@ -1,0 +1,11 @@
+{
+  "name": "craft",
+  "version": "1.0.0",
+  "description": "A landing page for  digital art sale ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adithpv",
+  "license": "MIT"
+}
