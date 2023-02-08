@@ -16,6 +16,13 @@ git clone https://github.com/adithpv/craft-landing-page.git
 
 The landing page features a gallery of digital art pieces with descriptions and prices. Visitors can navigate the site and view the available art pieces.
 
+## Screenshots
+
+![Screenshot of Craft](assets/screenshot/craft-screenshot.png)
+
+A screenshot of the Craft landing page, showcasing the gallery of digital art pieces available for sale.
+
+
 ## Contributing
 
 If you'd like to contribute to the project, please follow these guidelines:
