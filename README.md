@@ -18,7 +18,7 @@ The landing page features a gallery of digital art pieces with descriptions and 
 
 ## Screenshots
 
-![Screenshot of Craft](assets/screenshot/craft-screenshot.png)
+![Screenshot of Craft](craft-landing-page/assets/screenshot/)
 
 A screenshot of the Craft landing page, showcasing the gallery of digital art pieces available for sale.
 
