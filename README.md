@@ -2,6 +2,13 @@
 
 A website that showcases  digital arts by group of artists . created using HTML, CSS, and JavaScript.
 
+## Features
+
+- Modern looking UI design
+- Animations using CSS
+- Dark mode toggle
+- Responsiveness on various devices
+
 ## Getting Started
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
@@ -14,7 +21,15 @@ These instructions will help you get a copy of the project up and running on you
 
 ## Usage
 
-The landing page features a gallery of digital art pieces with descriptions and prices. Visitors can navigate the site and view the available art pieces.
+The landing page features a gallery of digital art pieces  and  aims to sell digital art prints. This is front end part of the site.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- [Scroll Reveal](https://scrollrevealjs.org/) library
+- [Remix Icons](https://remixicon.com/)
 
 ## Contributing
 
