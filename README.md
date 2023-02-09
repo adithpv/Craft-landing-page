@@ -8,9 +8,9 @@ These instructions will help you get a copy of the project up and running on you
 
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/adithpv/craft-landing-page.git
+  git clone https://github.com/adithpv/craft-landing-page.git
 
-2. Open the `index.html` file in a web browser or use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension if you are using Visual Studio Code to view the landing page.
+2. Open the `index.html` file in a web browser or use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension if you are     using Visual Studio Code to view the landing page.
 
 ## Usage
 
